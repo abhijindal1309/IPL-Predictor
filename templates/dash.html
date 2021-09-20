@@ -7,11 +7,29 @@
     <head>
         <!-- <body style=background-color: #4CAF50;> -->
         <meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
-	    
         <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+        <script src="jquery-1.8.2.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/index.css">
         <title>Dashboard</title>
-        <body>
+        <script>
+          function redirect(obj){
+            if(obj.value == "1st Innings")
+            location.href = "first_innings";
+            else
+            location.href = "second_innings";
+          };
+        // $(document).ready(function(){
+        //   $('#one').click(function(){
+        //     location.href = "1st_innings.ipynb";
+        //   });
+        //   $('#two').click(function(){
+        //     location.href = "/2nd_innings.ipynb";
+        //   });
+        // });
+      </script>
         <style type="text/css">
           body {
           background-image: url('bg.jpg');
@@ -123,23 +141,33 @@
       <!-- <body style="background-color:powderblue;"!important> -->
      
  
-        <div class="container">
+        <div class="container pt-md-5">
             <!-- Codrops top bar -->
             <!--/ Codrops top bar -->
-            <header>
-                <h1>Live Cricket Score and Win Prediction</span></h1>
-				
-            </header>
-            <section>		
-
-                <div id="container_demo_1" style="margin-top: 100px">
-                    <!-- hidden anchor to stop jump http://www.css3create.com/Astuce-Empecher-le-scroll-avec-l-utilisation-de-target#wrap4  -->
+            
+          <div class = "row mb-md-5">
+           <center> <div class = "col-md-8 ">
+              <h1>Live Cricket Score and Win Prediction</span></h1>
+            </div>
+          </center>
+          </div>
+          <div class = "row d-flex justify-content-around">
+            <center><div class = "col-md-5 mb-5">
+              <button type="button" value="1st Innings" class="btn btn-primary btn-lg" id = "one" onclick="redirect(this);">First Innings</button>
+            </div>
+          
+            <div class = "col-md-5">
+              <button type="button" value="2nd Innings" class="btn btn-primary btn-lg" id = "two" onclick="redirect(this)">Second Innings</button>
+            </div>
+          </center>
+          </div>
+                <!--<div id="container_demo_1" style="margin-top: 100px">
+                     hidden anchor to stop jump http://www.css3create.com/Astuce-Empecher-le-scroll-avec-l-utilisation-de-target#wrap4  
                     <a href="first_innings"> <input style="margin-left: 450px;" class="button-cls button1" type="button" value="1st Innings">
 </a>
  
                     <a href="second_innings"><input style="margin-left: 350px;" class="button-cls button1" type="button" value="2nd Innings"></a>
-                </div>  
-            </section>    
+                </div> -->  
         </div>
     </body>
 </html>
