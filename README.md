@@ -13,3 +13,7 @@ https://user-images.githubusercontent.com/74375277/134034008-e67d6f4e-4307-48ee-
 ![Screenshot (134)](https://user-images.githubusercontent.com/74375277/134045557-99cf057c-eb8a-4d1b-8173-e5ae7395f550.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/74375277/134045572-550fcd42-cae2-4285-9124-e21693e21c93.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/74375277/134045585-ac237e96-3112-4b56-9b8e-81ee14e52052.png)
+
+## Flowchart of Methodology
+![image](https://user-images.githubusercontent.com/74375277/134052069-b3d6a4c3-f09f-4c30-94c9-ee2da70c961e.png)
+
