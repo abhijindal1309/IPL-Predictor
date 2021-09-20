@@ -6,9 +6,10 @@ Winning in Cricket depends on various factors like home crowd advantage, perform
 https://user-images.githubusercontent.com/74375277/134034008-e67d6f4e-4307-48ee-88a3-e8e720c2e564.mp4
 
 ## I/O Screenshots
-![Screenshot (133)](https://user-images.githubusercontent.com/74375277/134045319-3f01f638-42d7-4587-8444-d66ba449b692.png)
-![Screenshot (134)](https://user-images.githubusercontent.com/74375277/134045326-cddf5eac-a6f0-4253-b246-9427c00c64c2.png)
-![Screenshot (137)](https://user-images.githubusercontent.com/74375277/134045328-856e4eb4-39e3-45aa-9bd4-3db9a394fd12.png)
-![Screenshot (130)](https://user-images.githubusercontent.com/74375277/134045330-6e1c5354-3b62-44b9-b35f-260d6aa31cdc.png)
-![Screenshot (131)](https://user-images.githubusercontent.com/74375277/134045333-398899a3-3198-4821-aaba-10e9c89367a3.png)
-![Screenshot (132)](https://user-images.githubusercontent.com/74375277/134045315-67ea27e1-681c-426d-8c71-6a4a6e114670.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/74375277/134045507-163b50c1-86fe-4e67-8dc3-21cb3df49922.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/74375277/134045524-65c6636f-d926-4a16-bb20-ebd2cc67103b.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/74375277/134045536-361865e1-e472-4ad8-ae65-4e5c156c01c3.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/74375277/134045547-b3213e87-6ebe-447e-a9e8-40d6976f807f.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/74375277/134045557-99cf057c-eb8a-4d1b-8173-e5ae7395f550.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/74375277/134045572-550fcd42-cae2-4285-9124-e21693e21c93.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/74375277/134045585-ac237e96-3112-4b56-9b8e-81ee14e52052.png)
