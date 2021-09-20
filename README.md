@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/74375277/134034008-e67d6f4e-4307-48ee-
 ## Flowchart of Methodology
 ![image](https://user-images.githubusercontent.com/74375277/134052069-b3d6a4c3-f09f-4c30-94c9-ee2da70c961e.png)
 
+## Live link of the Project
+https://my-ipl-prediction.herokuapp.com/
